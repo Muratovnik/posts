@@ -1,0 +1,32 @@
+.post {
+  padding: 44px 50px;
+
+  border: 1px solid var(--dark);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  margin-bottom: 15px;
+}
+
+.title {
+  padding-right: 50px;
+
+  font-family: var(--title-font);
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38px;
+}
+
+.btns {
+  display: flex;
+  gap: 21px;
+}
+
+.text {
+  font-size: 18px;
+  line-height: 150%;
+}

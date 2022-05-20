@@ -1,0 +1,22 @@
+.comments-list {
+  margin-bottom: 170px;
+}
+
+.title {
+  border-top: 1px solid var(--dark);
+  padding-top: 50px;
+  margin-bottom: 50px;
+
+  font-family: var(--title-font);
+  font-weight: 700;
+  font-size: 33px;
+  line-height: 41px;
+}
+
+.inner-list {
+  max-width: 734px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}

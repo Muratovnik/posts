@@ -1,0 +1,37 @@
+.navbar {
+  padding: 25px 0;
+  width: 100%;
+  margin-bottom: 150px;
+
+  color: #fff;
+  background-color: var(--dark, #000);
+}
+
+.navbar-inner {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-links {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.navbar-link {
+  color: inherit;
+}
+
+.logout-button {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-left: auto;
+
+  color: inherit;
+  font: inherit;
+
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+}

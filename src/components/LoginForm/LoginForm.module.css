@@ -1,0 +1,11 @@
+.login-form-title {
+  margin-bottom: 40px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  width: 500px;
+  max-width: 100%;
+}

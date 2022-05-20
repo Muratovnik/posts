@@ -1,0 +1,17 @@
+.comment {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.title {
+  font-family: var(--title-font);
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.text {
+  font-size: 18px;
+  line-height: 22px;
+}

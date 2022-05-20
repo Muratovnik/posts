@@ -1,0 +1,9 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+.current-page {
+  color: var(--dark);
+  background-color: #fff;
+}

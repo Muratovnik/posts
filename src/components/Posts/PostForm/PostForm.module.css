@@ -1,0 +1,27 @@
+.post-form {
+  max-width: 100%;
+  width: 748px;
+  padding: 50px;
+
+  background-color: #fff;
+}
+
+.title {
+  margin-bottom: 20px;
+
+  font-family: var(--title-font);
+  font-size: 34px;
+  line-height: 42px;
+}
+
+.fields {
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  margin-bottom: 30px;
+}
+
+.submit-button {
+  display: block;
+  margin-left: auto;
+}

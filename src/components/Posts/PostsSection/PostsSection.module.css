@@ -1,0 +1,19 @@
+.posts-section {
+  margin-bottom: 170px;
+}
+
+.header {
+  margin-bottom: 56px;
+}
+
+.header-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+
+  margin-bottom: 56px;
+}
+
+.list {
+  margin-bottom: 73px;
+}

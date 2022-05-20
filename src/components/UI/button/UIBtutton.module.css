@@ -1,0 +1,19 @@
+.UIButton {
+  padding: 12px 32px;
+
+  color: #fff;
+  font-size: 20px;
+  line-height: 25px;
+  font-family: var(--title-font);
+  text-transform: uppercase;
+
+  background-color: var(--dark);
+  cursor: pointer;
+
+  border: 1px solid var(--dark);
+}
+
+.UIButton.secondary {
+  color: var(--dark);
+  background-color: #fff;
+}

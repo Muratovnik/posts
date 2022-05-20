@@ -1,0 +1,24 @@
+:root {
+  --main-title-font: "Rhodium Libre";
+  --title-font: "Readex Pro";
+}
+
+@font-face {
+  font-family: "Readex Pro";
+  src: url("../fonts/ReadexPro-VariableFont_wght.ttf")
+    format("truetype-variations");
+  font-weight: 160 700;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat-VariableFont_wght.ttf")
+    format("truetype-variations");
+  font-weight: 160 700;
+}
+
+@font-face {
+  font-family: "Rhodium Libre";
+  src: url("../fonts/RhodiumLibre-Regular.ttf") format("truetype");
+  font-weight: 400;
+}

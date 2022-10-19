@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/posts/static/css/main.528938ff.css",
+    "main.js": "/posts/static/js/main.341df3c1.js",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/posts/static/media/Montserrat-VariableFont_wght.3068cdb43142f5625baf.ttf",
+    "static/media/RhodiumLibre-Regular.ttf": "/posts/static/media/RhodiumLibre-Regular.bae92d44f8ee91c0d751.ttf",
+    "static/media/ReadexPro-VariableFont_wght.ttf": "/posts/static/media/ReadexPro-VariableFont_wght.efe9d61b1a106c14502b.ttf",
+    "static/media/user-icon.svg": "/posts/static/media/user-icon.d31e31dc1dece169ff9d2947ec5d0269.svg",
+    "index.html": "/posts/index.html",
+    "main.528938ff.css.map": "/posts/static/css/main.528938ff.css.map",
+    "main.341df3c1.js.map": "/posts/static/js/main.341df3c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.528938ff.css",
+    "static/js/main.341df3c1.js"
+  ]
+}
